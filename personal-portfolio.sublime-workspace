@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"porf",
+				"portfolio-content"
+			],
+			[
+				"port",
+				"portfolio-content"
+			],
+			[
+				"project",
+				"project-description"
+			],
+			[
 				"nav-",
 				"nav-main"
 			]
@@ -15,7 +27,24 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1853,
+				"buffer_size": 6446,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 191738,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 481,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -85,7 +114,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -125,15 +154,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1853,
+						"buffer_size": 6446,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								275,
-								275
+								6091,
+								6091
 							]
 						],
 						"settings":
@@ -145,10 +174,71 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2486.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/bootstrap.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 191738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93808,
+								93605
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "E:\\Coding Projects\\GitHub-Repo\\personal-portfolio\\css\\bootstrap.css",
+							"git_savvy.repo_path": "E:\\Coding Projects\\GitHub-Repo\\personal-portfolio",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 103165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"git_savvy.repo_path": "E:\\Coding Projects\\GitHub-Repo\\personal-portfolio",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -156,7 +246,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -197,7 +287,7 @@
 	"project": "personal-portfolio.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
